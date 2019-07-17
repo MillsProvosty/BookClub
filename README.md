@@ -1,26 +1,40 @@
+#Book Club
 
-* Project
-  BookClub was a project assigned in Mod 2 meant to simulate a user experience browsing and reviewing books.
+Book Club is a project assigned in Mod 2 meant to simulate a user experience browsing and reviewingbooks.
 
-  The primary goal of this challenge was to test our ability to set up many-to-many relationships and accessing attributes through multiple models within the span of 7 days.
+The primary objective of this challenge was to test our ability to set up many-to-many relationships and accessing attributes through multiple models within the span of 7 days. 
 
-* Ruby version
-  Rails 5.1.x
+----
+##Getting Started
 
-* Additional Gems
-  gem 'rspec-rails'
-  gem 'capybara'
-  gem 'launchy'
-  gem 'shoulda-matchers'
-  gem 'pry'
-  gem 'active_designer'
-  gem 'factory_bot_rails'
-  gem 'simplecov'
+###Configuration                                     
+ `git clone git@github.com:MillsProvosty/BookClub.git`
 
-* Configuration
-  -clone the gihub repo: git@github.com:MillsProvosty/BookClub.git
-  -cd BookClub
-  -run bundle install
+  `cd BookClub`
 
-* How to run the test suite
-  -rspec
+  `bundle install`                                
+
+####How to run the test suite
+  `bundle exec rspec`
+
+----  
+##Technologies Used                                           
+
+#####Ruby on Rails
+#####RSpec/Capybara
+#####ActiveRecord/SQL
+#####HTML5/CSS3
+#####Pry
+
+----  
+##Authors                                            
+
+[Mills Provosty](https://github.com/MillsProvosty)
+
+[Rob Stringer](https://github.com/mycobee)
+                                          
+
+----
+##Acknowledgments                                    
+  Thanks to  [Brian Zanti](https://github.com/BrianZanti) and [Megan McMahon](https://github.com/memcmahon) for support, management, and instruction. 
+
