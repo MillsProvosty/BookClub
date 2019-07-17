@@ -1,6 +1,6 @@
 #Book Club
 
-Book Club is a project assigned in Mod 2 meant to simulate a user experience browsing and reviewingbooks.
+Book Club is a project assigned in Mod 2 meant to simulate a user experience browsing and reviewing books.
 
 The primary objective of this challenge was to test our ability to set up many-to-many relationships and accessing attributes through multiple models within the span of 7 days. 
 
