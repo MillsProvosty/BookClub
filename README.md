@@ -6,7 +6,7 @@ The primary objective of this challenge was to test our ability to set up many-t
 
 
 ## Getting Started
-----
+
 
 ### Configuration                                     
  `git clone git@github.com:MillsProvosty/BookClub.git`
@@ -18,7 +18,7 @@ The primary objective of this challenge was to test our ability to set up many-t
 #### How to run the test suite
   `bundle exec rspec`
 
-----  
+
 ## Technologies Used                                           
 
 ##### Ruby on Rails
@@ -27,7 +27,7 @@ The primary objective of this challenge was to test our ability to set up many-t
 ##### HTML5/CSS3
 ##### Pry
 
-----  
+ 
 ## Authors                                            
 
 [Mills Provosty](https://github.com/MillsProvosty)
