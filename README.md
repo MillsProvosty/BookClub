@@ -4,8 +4,9 @@ Book Club is a project assigned in Mod 2 meant to simulate a user experience bro
 
 The primary objective of this challenge was to test our ability to set up many-to-many relationships and accessing attributes through multiple models within the span of 7 days. 
 
-----
+
 ## Getting Started
+----
 
 ### Configuration                                     
  `git clone git@github.com:MillsProvosty/BookClub.git`
